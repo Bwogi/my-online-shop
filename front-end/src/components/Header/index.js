@@ -14,7 +14,7 @@ const Header = () => {
 						{/* <Logo /> */}
 						<i
 							style={{ color: 'yellow', paddingRight: 10 }}
-							class='fa-solid fa-leaf'></i>
+							className='fa-solid fa-leaf'></i>
 						My Online Shop
 					</Navbar.Brand>
 					<Navbar.Toggle aria-controls='basic-navbar-nav' />

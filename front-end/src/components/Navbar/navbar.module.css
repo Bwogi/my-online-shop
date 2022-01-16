@@ -1,0 +1,9 @@
+.navbar {
+	display: flex;
+	align-items: center;
+	padding-inline: 20px;
+	/* justify-content: center; // horizontal alignment */
+	height: 70px;
+	border: 1px solid #e3e3e3;
+	background-color: #e3e3e3;
+}
